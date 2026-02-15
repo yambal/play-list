@@ -4,3 +4,4 @@
  - [2:ボルドーの夜想](https://yambal.github.io/loadStream/narrations/loadStream_2.mp3)
  - [2:ろばにえみの、白い吐息](https://yambal.github.io/loadStream/narrations/loadStream_2.mp3)
  - [2:プラハの夜](https://yambal.github.io/loadStream/narrations/loadStream_2.mp3)
+ - [2:ミュンヘン](https://yambal.github.io/loadStream/narrations/loadStream_2.mp3)
