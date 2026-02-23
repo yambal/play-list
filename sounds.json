@@ -33,6 +33,13 @@
       "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/chill/Souldrop_(feat._Yogi_Rulez)-Paradeigma.mp3",
       "dir": "chill",
       "categories": []
+    },
+    {
+      "title": "Persimmon",
+      "artist": "Pierce Murphy",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/jazz/Persimmon-Pierce_Murphy.mp3",
+      "dir": "jazz",
+      "categories": []
     }
   ]
 }
