@@ -50,6 +50,17 @@
         "relax"
       ],
       "addedAt": 1771856384876
+    },
+    {
+      "title": "Gypsy Romance",
+      "artist": "GYPSY SUMMER",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/jazz/Gypsy_Romance-GYPSY_SUMMER.mp3",
+      "tags": [
+        "upbeat",
+        "relax"
+      ],
+      "addedAt": 1771857452593,
+      "duration": 239.36
     }
   ]
 }
