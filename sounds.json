@@ -40,6 +40,16 @@
       "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/jazz/Persimmon-Pierce_Murphy.mp3",
       "dir": "jazz",
       "categories": []
+    },
+    {
+      "title": "lockdown blues",
+      "artist": "Lonely Piano",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/jazz/lockdown_blues-Lonely_Piano.mp3",
+      "dir": "jazz",
+      "tags": [
+        "relax"
+      ],
+      "addedAt": 1771856384876
     }
   ]
 }
