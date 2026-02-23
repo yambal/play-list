@@ -46,6 +46,15 @@
       "categories": [
         "rock"
       ]
+    },
+    {
+      "title": "a",
+      "artist": "f",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/a-f.mp3",
+      "dir": "",
+      "categories": [
+        "rock"
+      ]
     }
   ]
 }
