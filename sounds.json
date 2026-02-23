@@ -64,6 +64,15 @@
       "categories": [
         "rock"
       ]
+    },
+    {
+      "title": "Goodbar Good Night",
+      "artist": "The Spin Wires",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/Goodbar_Good_Night-The_Spin_Wires.mp3",
+      "dir": "rock",
+      "categories": [
+        "rock"
+      ]
     }
   ]
 }
