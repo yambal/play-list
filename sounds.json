@@ -73,6 +73,15 @@
       "categories": [
         "rock"
       ]
+    },
+    {
+      "title": "a",
+      "artist": "b",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/a-b.mp3",
+      "dir": "rock",
+      "categories": [
+        "rock"
+      ]
     }
   ]
 }
