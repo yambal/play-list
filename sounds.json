@@ -91,6 +91,15 @@
       "categories": [
         "rock"
       ]
+    },
+    {
+      "title": "e",
+      "artist": "f",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/rock/e-f.mp3",
+      "dir": "rock",
+      "categories": [
+        "rock"
+      ]
     }
   ]
 }
