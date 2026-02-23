@@ -82,6 +82,15 @@
       "categories": [
         "rock"
       ]
+    },
+    {
+      "title": "c",
+      "artist": "d",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/c-d.mp3",
+      "dir": "rock",
+      "categories": [
+        "rock"
+      ]
     }
   ]
 }
