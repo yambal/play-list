@@ -55,6 +55,15 @@
       "categories": [
         "rock"
       ]
+    },
+    {
+      "title": "Use",
+      "artist": "Arna Maeve",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/Use-Arna_Maeve.mp3",
+      "dir": "rock",
+      "categories": [
+        "rock"
+      ]
     }
   ]
 }
