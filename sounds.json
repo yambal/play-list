@@ -37,6 +37,15 @@
       "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/1771853008300-unknown.mp3",
       "dir": "",
       "categories": []
+    },
+    {
+      "title": "Mercury Rising",
+      "artist": "Ali Mills",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/Mercury_Rising-Ali_Mills.mp3",
+      "dir": "",
+      "categories": [
+        "rock"
+      ]
     }
   ]
 }
