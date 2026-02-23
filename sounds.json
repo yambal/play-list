@@ -1,56 +1,9 @@
 {
   "sounds": [
     {
-      "title": null,
-      "artist": null,
-      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/test.mp3"
-    },
-    {
-      "title": "1771851790937",
-      "artist": "unknown",
-      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/1771851790937-unknown.mp3"
-    },
-    {
-      "title": "1771852236414",
-      "artist": "unknown",
-      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/1771852236414-unknown.mp3",
-      "dir": "",
-      "categories": []
-    },
-    {
-      "title": "1771852800835",
-      "artist": "unknown",
-      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/1771852800835-unknown.mp3",
-      "dir": "",
-      "categories": []
-    },
-    {
-      "title": "1771852967085",
-      "artist": "unknown",
-      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/1771852967085-unknown.mp3",
-      "dir": "",
-      "categories": []
-    },
-    {
-      "title": "1771853008300",
-      "artist": "unknown",
-      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/1771853008300-unknown.mp3",
-      "dir": "",
-      "categories": []
-    },
-    {
       "title": "Mercury Rising",
       "artist": "Ali Mills",
       "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/Mercury_Rising-Ali_Mills.mp3",
-      "dir": "",
-      "categories": [
-        "rock"
-      ]
-    },
-    {
-      "title": "a",
-      "artist": "f",
-      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/a-f.mp3",
       "dir": "",
       "categories": [
         "rock"
@@ -69,33 +22,6 @@
       "title": "Goodbar Good Night",
       "artist": "The Spin Wires",
       "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/Goodbar_Good_Night-The_Spin_Wires.mp3",
-      "dir": "rock",
-      "categories": [
-        "rock"
-      ]
-    },
-    {
-      "title": "a",
-      "artist": "b",
-      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/a-b.mp3",
-      "dir": "rock",
-      "categories": [
-        "rock"
-      ]
-    },
-    {
-      "title": "c",
-      "artist": "d",
-      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/c-d.mp3",
-      "dir": "rock",
-      "categories": [
-        "rock"
-      ]
-    },
-    {
-      "title": "e",
-      "artist": "f",
-      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/rock/e-f.mp3",
       "dir": "rock",
       "categories": [
         "rock"
