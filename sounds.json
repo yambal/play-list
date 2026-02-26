@@ -298,6 +298,18 @@
       "date": 1771516800001,
       "addedAt": 1772115994834,
       "duration": 520.620408
+    },
+    {
+      "title": "2026020100025_Road Trip: Meet the Team",
+      "artist": "FM ETS2 JP",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/fmets2jpnews/2026020100025_Road_Trip_Meet_the_Team-FM_ETS2_JP.mp3",
+      "dir": "fmets2jpnews",
+      "tags": [
+        "news"
+      ],
+      "date": 1769875200004,
+      "addedAt": 1772116113425,
+      "duration": 389.067755
     }
   ]
 }
