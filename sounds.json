@@ -245,6 +245,18 @@
       "date": 1770883500000,
       "addedAt": 1772113569374,
       "duration": 520.724898
+    },
+    {
+      "title": "2026021200034_Hearts in Bloom Event",
+      "artist": "FM ETS2 JP",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/fmets2jpnews/2026021200034_Hearts_in_Bloom_Event-FM_ETS2_JP.mp3",
+      "dir": "fmets2jpnews",
+      "tags": [
+        "news"
+      ],
+      "date": 1770825600007,
+      "addedAt": 1772113643924,
+      "duration": 196.832653
     }
   ]
 }
