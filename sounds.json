@@ -329,6 +329,18 @@
       "date": 1770220800001,
       "addedAt": 1772115475178,
       "duration": 259.604898
+    },
+    {
+      "title": "2026020300026_American Truck Simulator 10周年記念！",
+      "artist": "FM ETS2 JP",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/fmets2jpnews/2026020300026_American_Truck_Simulator_10周年記念！-FM_ETS2_JP.mp3",
+      "dir": "fmets2jpnews",
+      "tags": [
+        "news"
+      ],
+      "date": 1770048000003,
+      "addedAt": 1772115571696,
+      "duration": 243.826939
     }
   ]
 }
