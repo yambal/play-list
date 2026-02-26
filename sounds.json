@@ -233,6 +233,18 @@
       "date": 1770998400003,
       "addedAt": 1772113343012,
       "duration": 121.782857
+    },
+    {
+      "title": "2026021200035_ユーロトラックシミュレーターツーニュース",
+      "artist": "FM ETS2 JP",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/fmets2jpnews/2026021200035_ユーロトラックシミュレーターツーニュース-FM_ETS2_JP.mp3",
+      "dir": "fmets2jpnews",
+      "tags": [
+        "news"
+      ],
+      "date": 1770883500000,
+      "addedAt": 1772113569374,
+      "duration": 520.724898
     }
   ]
 }
