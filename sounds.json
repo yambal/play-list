@@ -221,6 +221,18 @@
       "date": 1771257600008,
       "addedAt": 1772113292096,
       "duration": 167.523265
+    },
+    {
+      "title": "2026021400036_SCS On The Road: Ford Crown Victoria Walk-Around",
+      "artist": "FM ETS2 JP",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/fmets2jpnews/2026021400036_SCS_On_The_Road_Ford_Crown_Victoria_Walk-Around-FM_ETS2_JP.mp3",
+      "dir": "fmets2jpnews",
+      "tags": [
+        "news"
+      ],
+      "date": 1770998400003,
+      "addedAt": 1772113343012,
+      "duration": 121.782857
     }
   ]
 }
