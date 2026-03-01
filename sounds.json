@@ -405,6 +405,19 @@
       "date": 1772346464423,
       "addedAt": 1772346479120,
       "duration": 219.585306
+    },
+    {
+      "title": "Another Way Out",
+      "artist": "Square a Saw",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/edm/Another_Way_Out-Square_a_Saw.mp3",
+      "dir": "edm",
+      "tags": [
+        "upbeat",
+        "electronic"
+      ],
+      "date": 1772346774182,
+      "addedAt": 1772346786052,
+      "duration": 162.037551
     }
   ]
 }
