@@ -422,6 +422,16 @@
       "date": 1772338073654,
       "addedAt": 1772338080304,
       "duration": 55.614694
+    },
+    {
+      "title": "Loop Y14",
+      "artist": "音楽堂さくら紅葉",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/loop/Loop_Y14-音楽堂さくら紅葉.mp3",
+      "dir": "loop",
+      "tags": [],
+      "date": 1772338776454,
+      "addedAt": 1772338782789,
+      "duration": 48.039184
     }
   ]
 }
