@@ -457,6 +457,19 @@
       "date": 1772357177780,
       "addedAt": 1772357192689,
       "duration": 217.234286
+    },
+    {
+      "title": "ナントの雨傘",
+      "artist": "ムッシュ楽団",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/loadStream/ナントの雨傘-ムッシュ楽団.mp3",
+      "dir": "loadStream",
+      "tags": [
+        "instrumental",
+        "easyListening"
+      ],
+      "date": 1772357279172,
+      "addedAt": 1772357292333,
+      "duration": 187.036735
     }
   ]
 }
