@@ -381,6 +381,18 @@
       "date": 1772294400000,
       "addedAt": 1772340898000,
       "duration": 163.63102
+    },
+    {
+      "title": "Eyes Get Wide",
+      "artist": "The Spin Wires",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/Eyes_Get_Wide-The_Spin_Wires.mp3",
+      "dir": "",
+      "tags": [
+        "upbeat"
+      ],
+      "date": 1772344488200,
+      "addedAt": 1772344502281,
+      "duration": 235.859592
     }
   ]
 }
