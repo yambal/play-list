@@ -382,6 +382,16 @@
       "date": 1772337444148,
       "addedAt": 1772337451877,
       "duration": 80.901224
+    },
+    {
+      "title": "Pop Loop",
+      "artist": "Jun Yamamoto",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/loop/Pop_Loop-Jun_Yamamoto.mp3",
+      "dir": "loop",
+      "tags": [],
+      "date": 1772337548109,
+      "addedAt": 1772337551077,
+      "duration": 28.865306
     }
   ]
 }
