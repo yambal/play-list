@@ -444,6 +444,19 @@
       "date": 1772347279593,
       "addedAt": 1772347292079,
       "duration": 178.12898
+    },
+    {
+      "title": "パリの恋人",
+      "artist": "ムッシュ楽団",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/loadStream/パリの恋人-ムッシュ楽団.mp3",
+      "dir": "loadStream",
+      "tags": [
+        "instrumental",
+        "easyListening"
+      ],
+      "date": 1772357177780,
+      "addedAt": 1772357192689,
+      "duration": 217.234286
     }
   ]
 }
