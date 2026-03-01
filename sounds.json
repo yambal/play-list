@@ -392,6 +392,16 @@
       "date": 1772337548109,
       "addedAt": 1772337551077,
       "duration": 28.865306
+    },
+    {
+      "title": "Country Loop",
+      "artist": "June YAMAMOTO",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/loop/Country_Loop-June_YAMAMOTO.mp3",
+      "dir": "loop",
+      "tags": [],
+      "date": 1772337587315,
+      "addedAt": 1772337589912,
+      "duration": 20.610612
     }
   ]
 }
