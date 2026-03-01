@@ -470,6 +470,19 @@
       "date": 1772357279172,
       "addedAt": 1772357292333,
       "duration": 187.036735
+    },
+    {
+      "title": "フレンチ・キス",
+      "artist": "ムッシュ楽団",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/loadStream/フレンチ・キス-ムッシュ楽団.mp3",
+      "dir": "loadStream",
+      "tags": [
+        "instrumental",
+        "easyListening"
+      ],
+      "date": 1772357339659,
+      "addedAt": 1772357350919,
+      "duration": 149.472653
     }
   ]
 }
