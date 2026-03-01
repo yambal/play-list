@@ -1,69 +1,6 @@
 {
   "sounds": [
     {
-      "title": "Loop 01",
-      "artist": "FM ETS2 JP",
-      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/loop/n001.mp3",
-      "dir": "loop",
-      "categories": [
-        "rock"
-      ]
-    },
-    {
-      "title": "Loop 01",
-      "artist": "FM ETS2 JP",
-      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/loop/n002.mp3",
-      "dir": "loop",
-      "categories": [
-        "rock"
-      ]
-    },
-    {
-      "title": "Loop 01",
-      "artist": "FM ETS2 JP",
-      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/loop/w004.mp3",
-      "dir": "loop",
-      "categories": [
-        "rock"
-      ]
-    },
-    {
-      "title": "Loop 01",
-      "artist": "FM ETS2 JP",
-      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/loop/y011.mp3",
-      "dir": "loop",
-      "categories": [
-        "rock"
-      ]
-    },
-    {
-      "title": "Loop 01",
-      "artist": "FM ETS2 JP",
-      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/loop/y014.mp3",
-      "dir": "loop",
-      "categories": [
-        "rock"
-      ]
-    },
-    {
-      "title": "Loop 01",
-      "artist": "FM ETS2 JP",
-      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/loop/y016.mp3",
-      "dir": "loop",
-      "categories": [
-        "rock"
-      ]
-    },
-    {
-      "title": "Loop 01",
-      "artist": "FM ETS2 JP",
-      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/loop/y017.mp3",
-      "dir": "loop",
-      "categories": [
-        "rock"
-      ]
-    },
-    {
       "title": "Mercury Rising",
       "artist": "Ali Mills",
       "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/Mercury_Rising-Ali_Mills.mp3",
