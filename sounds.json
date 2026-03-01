@@ -370,6 +370,18 @@
       "date": 1772208000001,
       "addedAt": 1772292834766,
       "duration": 265.639184
+    },
+    {
+      "title": "Launge Loop",
+      "artist": "June YAMAMOTO",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/loop/Launge_Loop-June_YAMAMOTO.mp3",
+      "dir": "loop",
+      "tags": [
+        "relax"
+      ],
+      "date": 1772337444148,
+      "addedAt": 1772337451877,
+      "duration": 80.901224
     }
   ]
 }
