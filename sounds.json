@@ -393,6 +393,18 @@
       "date": 1772344488200,
       "addedAt": 1772344502281,
       "duration": 235.859592
+    },
+    {
+      "title": "Waves (Cancer)",
+      "artist": "RENAE",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/pop/Waves_(Cancer)-RENAE.mp3",
+      "dir": "pop",
+      "tags": [
+        "relax"
+      ],
+      "date": 1772346464423,
+      "addedAt": 1772346479120,
+      "duration": 219.585306
     }
   ]
 }
