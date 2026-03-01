@@ -402,6 +402,16 @@
       "date": 1772337587315,
       "addedAt": 1772337589912,
       "duration": 20.610612
+    },
+    {
+      "title": "Funky Loop",
+      "artist": "June YAMAMOTO",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/loop/Funky_Loop-June_YAMAMOTO.mp3",
+      "dir": "loop",
+      "tags": [],
+      "date": 1772337620273,
+      "addedAt": 1772337622874,
+      "duration": 26.357551
     }
   ]
 }
