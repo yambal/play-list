@@ -483,6 +483,19 @@
       "date": 1772357339659,
       "addedAt": 1772357350919,
       "duration": 149.472653
+    },
+    {
+      "title": "真夜中のパリ",
+      "artist": "ムッシュ楽団",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/loadStream/真夜中のパリ-ムッシュ楽団.mp3",
+      "dir": "loadStream",
+      "tags": [
+        "instrumental",
+        "easyListening"
+      ],
+      "date": 1772357416340,
+      "addedAt": 1772357433421,
+      "duration": 245.942857
     }
   ]
 }
