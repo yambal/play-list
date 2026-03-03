@@ -582,6 +582,18 @@
       "date": 1772559011538,
       "addedAt": 1772559029347,
       "duration": 295.340408
+    },
+    {
+      "title": "2026030400050_Benelux Rework: Truckstops & Gas Stations",
+      "artist": "FM ETS2 JP",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/fmets2jpnews/2026030400050_Benelux_Rework_Truckstops_%26_Gas_Stations-FM_ETS2_JP.mp3",
+      "dir": "fmets2jpnews",
+      "tags": [
+        "news"
+      ],
+      "date": 1772553600001,
+      "addedAt": 1772559110928,
+      "duration": 236.617143
     }
   ]
 }
