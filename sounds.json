@@ -571,16 +571,17 @@
       "duration": 6.974694
     },
     {
-      "title": "2026030400050_ETS2 ベネルクス再構築：トラックストップとガソリンスタンド (2026/03/03)",
-      "artist": "FM ETS2 JP",
-      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/fmets2jpnews/2026030400050_ETS2_ベネルクス再構築：トラックストップとガソリンスタンド_(2026_03_03)-FM_ETS2_JP.mp3",
-      "dir": "fmets2jpnews",
+      "title": "セカイの手触り",
+      "artist": "June YAMAMOTO",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/pop/セカイの手触り-June_YAMAMOTO.mp3",
+      "dir": "pop",
       "tags": [
-        "news"
+        "upbeat",
+        "acoustic"
       ],
-      "date": 1772553600001,
-      "addedAt": 1772559024472,
-      "duration": 200.150204
+      "date": 1772559011538,
+      "addedAt": 1772559029347,
+      "duration": 295.340408
     }
   ]
 }
