@@ -606,6 +606,18 @@
       "date": 1769506620015,
       "addedAt": 1772559508619,
       "duration": 140.90449
+    },
+    {
+      "title": "2026012700022_ATS/ETS2 1.58アップデート UI/UX変更点 (2026/03/03)",
+      "artist": "FM ETS2 JP",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/fmets2jpnews/2026012700022_ATS_ETS2_1.58アップデート_UI_UX変更点_(2026_03_03)-FM_ETS2_JP.mp3",
+      "dir": "fmets2jpnews",
+      "tags": [
+        "news"
+      ],
+      "date": 1769443200001,
+      "addedAt": 1772559578938,
+      "duration": 265.560816
     }
   ]
 }
