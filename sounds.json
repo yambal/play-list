@@ -618,6 +618,18 @@
       "date": 1769443200001,
       "addedAt": 1772559578938,
       "duration": 265.560816
+    },
+    {
+      "title": "Que Aquí Estoy Yo",
+      "artist": "Alfonso Lugo",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/pop/Que_Aquí_Estoy_Yo-Alfonso_Lugo.mp3",
+      "dir": "pop",
+      "tags": [
+        "electronic"
+      ],
+      "date": 1772634498707,
+      "addedAt": 1772634512374,
+      "duration": 189.44
     }
   ]
 }
