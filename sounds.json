@@ -655,6 +655,18 @@
       "date": 1772634747415,
       "addedAt": 1772634759407,
       "duration": 167.549388
+    },
+    {
+      "title": "2026030500051_「Hearts in Bloom」イベント終了報告 (2026年3月5日)",
+      "artist": "FM ETS2 JP",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/fmets2jpnews/2026030500051_「Hearts_in_Bloom」イベント終了報告_(2026年3月5日)-FM_ETS2_JP.mp3",
+      "dir": "fmets2jpnews",
+      "tags": [
+        "news"
+      ],
+      "date": 1772640000001,
+      "addedAt": 1772726046438,
+      "duration": 164.754286
     }
   ]
 }
