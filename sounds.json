@@ -667,6 +667,18 @@
       "date": 1772640000001,
       "addedAt": 1772726046438,
       "duration": 164.754286
+    },
+    {
+      "title": "実存",
+      "artist": "June YAMAMOTO",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/pop/実存-June_YAMAMOTO.mp3",
+      "dir": "pop",
+      "tags": [
+        "upbeat"
+      ],
+      "date": 1772726053208,
+      "addedAt": 1772726066117,
+      "duration": 212.950204
     }
   ]
 }
