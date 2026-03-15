@@ -716,6 +716,19 @@
       "description": "SCS Softwareの公式ブログで、アメリカントラックシミュレーター（ATS）の最新DLC「イリノイ州」のゲームプレイプレビューが公開されました。広大な農地と活気ある都市が共存するイリノイ州の道路や景観、そして農業施設などが紹介されています。開発中の映像なので、今後変更される可能性もあります。",
       "addedAt": 1773573806903,
       "duration": 108.826122
+    },
+    {
+      "title": "2026031300057_ボブキャット工場ツアー、ATSにも触れる - 2026年3月15日",
+      "artist": "FM ETS2 JP",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/fmets2jpnews/2026031300057_ボブキャット工場ツアー、ATSにも触れる_-_2026年3月15日-FM_ETS2_JP.mp3",
+      "dir": "fmets2jpnews",
+      "tags": [
+        "news"
+      ],
+      "date": 1773331200001,
+      "description": "SCS Softwareの公式ブログ記事「SCS On The Road: Bobcat Manufacturing Plant Tour」を紹介します。2026年3月15日に公開されたこの記事では、ETS2とATSのDLC「Bobcat Cargo Pack」で登場する建設機械がどのように製造されているのか、チェコのボブキャット工場へのツアーの様子を伝えています。工場では900人以上が働き、年間約2万台の機械が生産されており、その一部は北米などにも輸出されています。記事では、ボブキャット社への感謝と、ゲーム内でこれらの機械を輸送できるDLCについても触れています。",
+      "addedAt": 1773573861002,
+      "duration": 159.085714
     }
   ]
 }
