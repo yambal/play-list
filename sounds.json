@@ -703,6 +703,19 @@
       "date": 1772812800003,
       "addedAt": 1772979344041,
       "duration": 128.156735
+    },
+    {
+      "title": "2026031500058_ATS Illinois DLC Gameplay Preview（2026年3月15日）",
+      "artist": "FM ETS2 JP",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/fmets2jpnews/2026031500058_ATS_Illinois_DLC_Gameplay_Preview（2026年3月15日）-FM_ETS2_JP.mp3",
+      "dir": "fmets2jpnews",
+      "tags": [
+        "news"
+      ],
+      "date": 1773504000001,
+      "description": "SCS Softwareの公式ブログで、アメリカントラックシミュレーター（ATS）の最新DLC「イリノイ州」のゲームプレイプレビューが公開されました。広大な農地と活気ある都市が共存するイリノイ州の道路や景観、そして農業施設などが紹介されています。開発中の映像なので、今後変更される可能性もあります。",
+      "addedAt": 1773573806903,
+      "duration": 108.826122
     }
   ]
 }
