@@ -755,6 +755,19 @@
       "description": "Euro Truck Simulator 2の1.59アップデートで、スウェーデンのゴットランドにある「Volvo Trucks Experience Center」が1:1スケールで再現されます。この施設では、実際の車両の挙動を再現したサーキットで、プレイヤーはトラックの運転スキルを試すことができます。Scandinavia DLCが必要となります。",
       "addedAt": 1773998073292,
       "duration": 208.613878
+    },
+    {
+      "title": "2026031800059_Bobcat EMEA HQ訪問記（2026年3月20日）",
+      "artist": "FM ETS2 JP",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/fmets2jpnews/2026031800059_Bobcat_EMEA_HQ訪問記（2026年3月20日）-FM_ETS2_JP.mp3",
+      "dir": "fmets2jpnews",
+      "tags": [
+        "news"
+      ],
+      "date": 1773763200001,
+      "description": "SCS SoftwareがチェコのボブキャットEMEA本社を訪問し、ETS2およびATSのDLC「Bobcat Cargo Pack」のために、ゲーム内モデルの制作過程や実際の機械についての情報収集を行った様子を伝える記事。",
+      "addedAt": 1773998112874,
+      "duration": 128
     }
   ]
 }
