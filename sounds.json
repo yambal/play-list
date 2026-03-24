@@ -768,6 +768,19 @@
       "description": "SCS SoftwareがチェコのボブキャットEMEA本社を訪問し、ETS2およびATSのDLC「Bobcat Cargo Pack」のために、ゲーム内モデルの制作過程や実際の機械についての情報収集を行った様子を伝える記事。",
       "addedAt": 1773998112874,
       "duration": 128
+    },
+    {
+      "title": "2026032100061_イリノイ州の壁画DLC！ATS最新情報 - 2026年3月24日",
+      "artist": "FM ETS2 JP",
+      "download_url": "https://raw.githubusercontent.com/yambal/play-list/main/sounds/fmets2jpnews/2026032100061_イリノイ州の壁画DLC！ATS最新情報_-_2026年3月24日-FM_ETS2_JP.mp3",
+      "dir": "fmets2jpnews",
+      "tags": [
+        "news"
+      ],
+      "date": 1774022400001,
+      "description": "SCS Softwareのブログより、アメリカントラックシミュレーター（ATS）のイリノイ州DLCに収録される壁画について紹介します。シカゴ、スプリングフィールド、ロックフォードなど、州内の様々な都市の文化や歴史を称える美しい壁画がゲーム内で再現されるとのこと。ドライバーはこれらのアートに触れながら、イリノイ州の魅力を体験できます。",
+      "addedAt": 1774357897236,
+      "duration": 133.799184
     }
   ]
 }
